@@ -1,10 +1,14 @@
 -----------------------
 
---Fake macros
+--Arent you glad i dont use an Obfuscator like other rats.
 
 -----------------------
 
---The key 2 speed is "q"
+--Fake macros.
+
+-----------------------
+
+--The key 2 speed is "q".
 
 -----------------------
 
@@ -13,7 +17,7 @@ down = true
 
 -----------------------
 
---Functions
+--Functions.
 
 -----------------------
 
@@ -48,7 +52,7 @@ end
 
 -----------------------
 
---Notification
+--Notification.
 
 -----------------------
 
@@ -61,11 +65,11 @@ game.StarterGui:SetCore("SendNotification",{
 
 -----------------------
 
---Aimlock
+--Aimlock.
 
 -----------------------
 
---dont feel like catigorizing this one so i wont because you can tell what it does
+--dont feel like catigorizing this one so i wont because you can tell what it does.
 
 -----------------------
 
